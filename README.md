@@ -1,7 +1,9 @@
-License: This software is provided for research and evaluation purposes only. 
-Licensing terms may change.
+## License
+This software is provided for research and evaluation purposes only.
+Redistribution is not permitted without prior written permission.
+See the LICENSE file for full terms. Licensing terms may change.
 
-Instructions:
+## Instructions:
 prepare binary strings in file xlist.txt:
 	- one per line, all of the same length n
 	- each bit represented as character 0 or 1

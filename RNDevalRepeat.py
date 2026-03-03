@@ -1,7 +1,9 @@
 #%% 
-# Proof-of-principle implementation for anonymous review
-# This software is provided for research and evaluation purposes only. Licensing terms may change.
+# Proof-of-principle research implementation corresponding to a research article
+# Provided solely for research and evaluation purposes.
+#
 # Copyright (c) 2026
+# See the LICENSE file for full terms.
 
 import itertools, math
 from datetime import datetime

@@ -25,11 +25,12 @@ Parameters may be adjusted directly in the source file to reproduce alternative 
 ## Execution
 
 Run:
-python3 RNDevalRepeat.py
-Results are printed to standard output.  
-A summary file is written to:
-sumresults_params.txt
 
+python3 RNDevalRepeat.py
+
+Results are printed to standard output. A summary file is written to:
+
+sumresults_params.txt
 
 ## License
 

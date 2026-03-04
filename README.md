@@ -1,6 +1,6 @@
 ## RNDevalRepeat — Research Prototype
 
-This repository contains a proof-of-principle Python implementation corresponding to a research publication.  
+This repository contains a proof-of-principle Python implementation corresponding to a research article.  
 The code reflects the experimental setup described in the paper and is provided solely for research and evaluation purposes. It is not intended as a production-ready or optimized implementation.
 
 ## Requirements
